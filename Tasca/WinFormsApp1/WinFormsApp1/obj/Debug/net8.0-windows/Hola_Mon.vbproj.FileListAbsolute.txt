@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.exe
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.deps.json
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.runtimeconfig.json
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.dll
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.pdb
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.Form1.resources
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.AssemblyInfo.vb
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.dll
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\Hola_Mon.dll
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.pdb
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.genruntimeconfig.cache
+C:\Users\user\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\Hola_Mon.dll
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.exe
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.deps.json
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.runtimeconfig.json
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.dll
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\Hola_Mon.pdb
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.Form1.resources
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.vbproj.GenerateResource.cache
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.GeneratedMSBuildEditorConfig.editorconfig
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.AssemblyInfoInputs.cache
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.AssemblyInfo.vb
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.vbproj.CoreCompileInputs.cache
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.dll
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\Hola_Mon.dll
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.pdb
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\Hola_Mon.genruntimeconfig.cache
+\\DESKTOP-6HDRS6T\VM Windows\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\Hola_Mon.dll
